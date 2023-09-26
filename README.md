@@ -38,5 +38,5 @@ Aplikację stworzył Arkadiusz Adamowski [[AK4CZ](https://github.com/MCakacz)]
 
 ## Licencja
 
-Ten projekt jest dostępny na licencji [MIT](https://pl.wikipedia.org/wiki/Licencja_MIT) - szczegóły w pliku [LICENSE.md](https://github.com/MCakacz/Cheat_detection_cc/blob/main/LICENSE).
+Ten projekt jest dostępny na licencji [MIT](https://pl.wikipedia.org/wiki/Licencja_MIT) - szczegóły w pliku [LICENSE](https://github.com/MCakacz/Cheat_detection_cc/blob/main/LICENSE).
 
